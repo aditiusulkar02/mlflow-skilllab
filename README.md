@@ -59,7 +59,6 @@ Plots are in `outputs/` (confusion matrices, comparison bar chart, latency chart
 
 *(150–250 words. Answer: Does the Challenger improve on the Champion? By how much? Is the difference meaningful given the sample size? What are the trade-offs (speed, size, errors)? Quote the numbers from the table above, and say whether the decision followed the rule in Section 2.)*
 
-[FILL: write your own explanation after you see the results]
 
 ## 6. Limitations and declaration
 
