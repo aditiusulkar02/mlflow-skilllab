@@ -1,6 +1,6 @@
 # Champion–Challenger Model Comparison with Hugging Face and MLflow
 
-**Name / USN:** Aditi Vikramkumar Usulkar(1MS26CI404-T)
+**Name : Aditi Vikramkumar Usulkar / USN:** 1MS26CI404-T
 
 ## 1. Task and models
 
