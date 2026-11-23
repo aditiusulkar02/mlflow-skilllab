@@ -1,6 +1,6 @@
 # Champion–Challenger Model Comparison with Hugging Face and MLflow
 
-**Name / USN:** [FILL: your name and USN]
+**Name / USN:** Aditi Vikramkumar Usulkar
 
 ## 1. Task and models
 
