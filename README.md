@@ -1,6 +1,6 @@
 # Champion–Challenger Model Comparison with Hugging Face and MLflow
 
-**Name / USN:** Aditi Vikramkumar Usulkar
+**Name / USN:** Aditi Vikramkumar Usulkar(1MS26CI404-T)
 
 ## 1. Task and models
 
@@ -12,7 +12,6 @@
 
 ## 2. Champion rule (written BEFORE the final run)
 
-*Rule written on: [FILL: date] — committed before running `evaluate.py` for the final time.*
 
 | Part | Rule |
 | --- | --- |
